@@ -32,7 +32,10 @@ class Solution(object):
                         temp.pop()
                     else:
                         isValid = False
-                        break                
+                        break  
+             
+        if len(temp) > 0:   # all parentheses must be closed
+            isValid = False              
         
         return isValid
                     
