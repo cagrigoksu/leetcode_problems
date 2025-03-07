@@ -4,6 +4,8 @@
 
 - **1.** Two Sum
 - **2.** Add Two Numbers
+- **3.** 'MEDIUM' - Longest Substring Without Repeating Characters
+- **4.** 'HARD' - Median of Two Sorted Arrays
 - **13.** Roman to Integer
 - **14.** Longeat Common Prefix
 - **20.** Valid Parentheses
