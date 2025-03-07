@@ -12,3 +12,5 @@
 - **21.** `EASY` - Merge Two Sorted Lists
 - **1780.** `MEDIUM` - Check if Number is a Sum of Powers of Three
 - **2161.** `MEDIUM` - Partition Array According to Given Pivot
+- **2570.** `EASY` - Merge Two 2D Arrays by Summing Values
+- **2579.** `MEDIUM` - Count Total Number of Colored Cells
