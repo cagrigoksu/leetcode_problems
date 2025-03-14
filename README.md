@@ -6,6 +6,7 @@
 - **2.** `MEDIUM` - Add Two Numbers
 - **3.** `MEDIUM` - Longest Substring Without Repeating Characters
 - **4.** `HARD` - Median of Two Sorted Arrays
+- **5.** `MEDIUM` - Longest Palindromic Substring
 - **13.** `EASY` - Roman to Integer
 - **14.** `EASY` - Longeat Common Prefix
 - **20.** `EASY` - Valid Parentheses
